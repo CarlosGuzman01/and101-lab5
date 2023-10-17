@@ -65,6 +65,7 @@ class MainActivity : AppCompatActivity() {
             Glide.with(this)
                 .load(petImageURL)
                 .fitCenter()
+                .error(R.drawable.error)
                 .into(binding.ivPetImage)
         }
 
