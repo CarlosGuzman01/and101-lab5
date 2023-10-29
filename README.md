@@ -1,3 +1,4 @@
 # and101-lab5
 
-![image](https://github.com/CarlosGuzman01/and101-lab5/assets/120758068/9450c4b5-cc06-43bf-8cc1-85da83eb673d)
+
+![Media_231029_144726](https://github.com/CarlosGuzman01/and101-lab5/assets/120758068/b6b09087-e9aa-4b3f-9153-60e8ddf8ea14)
